@@ -244,7 +244,7 @@ body {
 	transition: all 4s;  }	
 
 .item{
-  width: 26em;/*416px*/
+  width: 16em;/*416px*/
   padding: 0px 0px 12px 0px;
 	margin-left: 11px;
 	margin-right: 11px;
