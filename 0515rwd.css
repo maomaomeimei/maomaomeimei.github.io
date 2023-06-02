@@ -271,7 +271,7 @@ body {
 } 
 
 .text h3{
-	font-size: 2.5em;
+	font-size: 1.2em;
 	line-height: 1.7em;
 	margin-bottom: 12px;
 	margin-top: 20px;
@@ -280,13 +280,13 @@ body {
 	
 }
 .text p{
-	font-size: 2em;
+	font-size: 1em;
 	line-height: 1.5em;
 	padding-left: 32px;
 	padding-right: 32px;
 }
 .text{
-	height: 16em;
+	height: 13em;
 	padding:10px;
 }
 
@@ -413,7 +413,7 @@ body {
 		margin-right: 2px;	
 	}
 	.text{
-		height: 10em;
+		height: auto;
 	}
 	.text h3{
 		font-size: 1.5em;
