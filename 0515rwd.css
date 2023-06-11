@@ -266,8 +266,9 @@ body {
 	font-weight: bold;
 }
 .header h2{
-	font-size: 80px;
+	font-size: 60px;
 }
+
 .menu{
 	display: flex;
 	justify-content: space-between;
@@ -301,9 +302,15 @@ body {
 	border: 1px solid #F2F2F2;
     border-radius:16px;	
 }
-.btn1 li a{
+n1 li a:hover{
+	background-color: #000;
+	color: #fff;
+	border-radius:16px;
+}
 
-	padding:20px 40px 20px 40px ;
+.btn1 li a{
+	font-size: 16px;
+	padding:20px 30px 20px 30px ;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -314,18 +321,6 @@ body {
 	border-radius:16px;
 }
 
-.btn1 li a{
-	font-size: 16px;
-	padding:20px 40px 20px 40px ;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
-.btn1 li a :hover {
-	background-color: #000;
-	color: #fff;
-	border-radius:16px;
-}
 
 
 .btn2{
@@ -333,11 +328,11 @@ body {
 	border-radius:16px;
 }
 .btn2 li a{
-	padding:20px 40px 20px 40px ;
+	padding:20px 30px 20px 30px ;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	font-size:16px;
+	font-size: 16px;
 }
 .btn2 li a:hover{
 	background-color: #000;
@@ -348,6 +343,7 @@ body {
 .btn2 li{
 	list-style: none;
 }
+
 
 .no1{
 	padding:8px 16px 8px 16px ;
