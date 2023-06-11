@@ -144,7 +144,7 @@ body {
 	padding: 100px 40px 100px 40px;
 }
 .intro img{
-	height: 180px;
+	height: 66px;
 }
 .intro h6{
 	color: #ffffff;
@@ -201,8 +201,8 @@ body {
 
 }
 .feedback img{
-	height: 35px;
-	margin: 10px;
+	height: 14px;
+	margin: 4px;
 }
 .client{
 	display: flex;
@@ -217,7 +217,7 @@ body {
 	margin: 10px 0px 10px 0px;
 }
 .client img{
-	height: 100px;
+	height: 45px;
 }
 
 .title ul{
