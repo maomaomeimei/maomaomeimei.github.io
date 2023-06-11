@@ -379,9 +379,9 @@ n1 li a:hover{
     padding: 0px 0px 12px 0px;
 	margin-left: 11px;
 	margin-right: 11px;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 	border: 1px solid #F2F2F2;
-	border-radius: 5%;
+	border-radius: 20px;
 	align-self: normal;
 
 }
@@ -423,7 +423,7 @@ n1 li a:hover{
 	padding: 20px;
 	font-size: 1em;
 	margin-top: 20px;
-	margin-bottom: 10px;
+	margin-bottom: 0px;
 	border-top: 1px solid #F2F2F2;
 }
 .model li a {
