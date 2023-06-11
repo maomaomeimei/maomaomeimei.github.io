@@ -279,11 +279,11 @@ body {
 .menu .list{
 	display: flex;
 }
-.menu li{	padding: 0px 2px 0px 2px;
+.menu li{	
+	padding: 0px 2px 0px 2px;
 }
 .list li a{
 
-	padding: 20px;
 	border-radius: 16px;
 	margin: 0px 10px 0px 10px;
 }
