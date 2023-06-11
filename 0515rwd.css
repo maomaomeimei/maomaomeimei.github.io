@@ -465,7 +465,7 @@ n1 li a:hover{
 
 .pagenav li{
  margin-left:4px ;
- font-size: 2em;
+ font-size:16px;
  padding-left: 24px;
  padding-right: 24px;
  margin-left: 4px;
@@ -506,16 +506,16 @@ n1 li a:hover{
 }
 
 .content2 h5{
-	font-size: 5em;
+	font-size: 48px;
 	color: #ffffff;
 	padding:2em;
 }
 .content2 a{
 	display: block;
-	font-size: 3em;
+	font-size: 20px;
 	color: #ffffff;
 	border: 1px solid #fafafa;
-	padding: 1em 1.5em 1em 1.5em;
+	padding: 15px 25px 15px 25px;
 	border-radius: 20px;
 	text-decoration: none;
 	margin-bottom: 160px;
@@ -527,11 +527,11 @@ n1 li a:hover{
 	margin-bottom: 160px;
 }
 .noname li{
-	font-size: 104px;
+	font-size: 80px;
 	color: #ffffff;
 }
 .noname img{
-	height: 80px;
+	height: 48px;
 }
 .footer{
 	display: flex;
