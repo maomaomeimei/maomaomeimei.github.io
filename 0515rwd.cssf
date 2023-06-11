@@ -159,11 +159,11 @@ body {
 }
 
 .grass {
-	height: 200px;
+	height: 150px;
 	margin-top: 238px;
 	position: relative;
 	top: 100px;
-	animation: transfrom 5s linear;
+	animation: transfrom 5s cubic-bezier(0, 0.58, 1, 1);
 	margin-bottom: 14em;
 	margin-left: 8em;
 	display: flex;
