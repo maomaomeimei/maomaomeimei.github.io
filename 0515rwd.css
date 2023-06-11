@@ -412,7 +412,7 @@ n1 li a:hover{
 	font-weight: 100;
 }
 .text{
-	height: 18em;
+	height: 10em;
 	
 }
 
@@ -420,8 +420,8 @@ n1 li a:hover{
 .model ul{
 	display: flex;
 	justify-content: space-between;
-	padding: 32px;
-	font-size: 2em;
+	padding: 20px;
+	font-size: 1em;
 	margin-top: 20px;
 	margin-bottom: 10px;
 	border-top: 1px solid #F2F2F2;
