@@ -745,7 +745,8 @@ n1 li a:hover{
 	.grass{
 		height: 80px;
 	}
-
+	.pagenav li a{
+		width:100%;}
 }
 
 
