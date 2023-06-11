@@ -245,7 +245,7 @@ body {
 
 .container{
   background-color: #fff;
-  width: 100%;
+  width: 98%;
   margin-left: auto;
   margin-right: auto;
   border-radius: 160px;  
@@ -253,12 +253,12 @@ body {
 }
 
 .header{
-	width: 65%;/*width: 1296px;*/
+	width: 75%;/*width: 1296px;*/
 	margin-left: auto;
-  margin-right: auto;
+        margin-right: auto;
 }
 .header h4{
-	font-size: 8em;
+	font-size: 80px;
 	text-align: center;
 	margin-top: 160px;
 	padding-top: 150px;
