@@ -268,7 +268,6 @@ body {
 .header h2{
 	font-size: 4em;
 }
-
 .menu{
 	display: flex;
 	justify-content: space-between;
@@ -279,18 +278,10 @@ body {
 .menu .list{
 	display: flex;
 }
-.menu li{
-	padding: 0px 2px 0px 2px;
+.menu li{	padding: 0px 2px 0px 2px;
 }
-/*.menu li:first-child {
-	border: 1px solid #000;
-}
-.menu li:last-child {
-	border: 1px solid #000;
-}*/
-
-
 .list li a{
+
 	padding: 20px;
 	border-radius: 16px;
 	margin: 0px 10px 0px 10px;
@@ -302,22 +293,35 @@ body {
 
 
 .menu a{
-	font-size: 1.7em;
 	text-decoration: none;
 	color: #000;
 }
+
 .btn1{
 	border: 1px solid #F2F2F2;
     border-radius:16px;	
 }
 .btn1 li a{
-	font-size: 1.7em;
+
 	padding:20px 40px 20px 40px ;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 }
 .btn1 li a:hover{
+	background-color: #000;
+	color: #fff;
+	border-radius:16px;
+}
+
+.btn1 li a{
+	font-size: 16px;
+	padding:20px 40px 20px 40px ;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.btn1 li a :hover {
 	background-color: #000;
 	color: #fff;
 	border-radius:16px;
@@ -333,7 +337,7 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	font-size: 1.7em;
+	font-size:16px;
 }
 .btn2 li a:hover{
 	background-color: #000;
